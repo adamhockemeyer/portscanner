@@ -3,7 +3,9 @@ Simple bash script to scan a host along with ports in a loop
 
 ## Usage
 
-`./portscanner.bash microsoft.com 80,443,22,5557`
+```console
+foo@bar:~$ ./portscanner.bash microsoft.com 80,443,22,5557
+```
 
 ![Port Scanner Example](https://github.com/adamhockemeyer/portscanner/blob/main/portscanner.jpg?raw=true)
 
